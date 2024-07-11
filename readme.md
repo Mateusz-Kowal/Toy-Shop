@@ -6,6 +6,7 @@ The following operations are possible on all of the products:
 - adding a new product
 - buying a product
 - printing information about a product  
+
 In the code the following have been used:
 - classes
 - constructors
